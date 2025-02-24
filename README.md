@@ -18,3 +18,4 @@ This project is designed to create an interactive social media website where use
 ![Text Overflow](images\demo\Demo_o.png)
 
 **Link to Project**
+https://cat-hetrick.github.io/se_project_spots/
