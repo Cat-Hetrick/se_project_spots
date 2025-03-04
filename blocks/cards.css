@@ -17,4 +17,8 @@
   .cards {
     max-width: 288px;
   }
+
+  .cards__list {
+    gap: 20px 0px;
+  }
 }
