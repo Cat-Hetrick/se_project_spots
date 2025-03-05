@@ -44,7 +44,12 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 902px) {
+@media screen and (max-width: 885px) {
+  .card__image {
+    width: 288px;
+    height: 288px;
+  }
+
   .card__title {
     font-size: 16px;
     line-height: 1;
