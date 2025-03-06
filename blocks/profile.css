@@ -93,13 +93,14 @@
     max-width: 288px;
     align-items: center;
     text-align: center;
-    padding: 12px;
+    padding: 20px 0 20px;
   }
 
   .profile__name {
+    margin: 0;
     font-size: 20px;
     line-height: 1;
-    padding-bottom: 6px;
+    padding: 12px 0 6px;
   }
 
   .profile__avatar {
