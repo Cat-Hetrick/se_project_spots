@@ -12,10 +12,10 @@ This project is designed to create an interactive social media website where use
 
 **Images**
 
-![Desktop View](images\demo\Demo.png)
-![Tablet View](images\demo\Demo_t.png)
-![Mobile View](images\demo\Demo_m.png)
-![Text Overflow](images\demo\Demo_o.png)
+![Desktop View](./images/demo/Demo.png)
+![Tablet View](./images\demo\Demo_t.png)
+![Mobile View](./images\demo\Demo_m.png)
+![Text Overflow](./images\demo\Demo_o.png)
 
 **Link to Project**
 https://cat-hetrick.github.io/se_project_spots/
