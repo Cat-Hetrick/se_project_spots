@@ -85,8 +85,18 @@
   color: #212121;
 }
 
+.modal__input_type_error {
+  border: 1px rgba(255, 0, 0, 0.6) solid;
+}
+
 .modal__input:hover {
   border: 1px rgba(33, 33, 33, 1) solid;
+}
+
+.modal__error {
+  display: block;
+  color: rgba(255, 0, 0, 0.7);
+  font-size: 16px;
 }
 
 .modal__save-button {
@@ -98,6 +108,14 @@
   border: none;
   border-radius: 8px;
   cursor: pointer;
+}
+
+.modal__save-button_inactive {
+  background-color: rgba(33, 33, 33, 0.5);
+}
+
+.modal__save-button:hover {
+  background-color: rgba(33, 33, 33, 0.8);
 }
 
 .modal__preview {
